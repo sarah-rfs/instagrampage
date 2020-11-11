@@ -4,4 +4,4 @@ O projeto trabalha com HTML e CSS e a intenção presente foi a de recriar a pá
 
 ## Resultado do Projeto
 
-<img src="img/resultado.png" width="500px">
+<img src="img/resultado.png" alt="resultado">
